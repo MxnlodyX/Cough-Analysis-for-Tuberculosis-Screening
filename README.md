@@ -7,7 +7,7 @@
 
 <!-- ป้าย Badges (ใช้สไตล์ for-the-badge) -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/STATUS-R%26D-FFD700?style=for-the-badge&labelColor=555555" alt="Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/STATUS-ONGOING%20RESEARCH-007BFF?style=for-the-badge&labelColor=555555" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/COURSE-PRACTICAL%20DATA%20SCIENCE-5865F2?style=for-the-badge&labelColor=555555" alt="Course"></a>
   <a href="#"><img src="https://img.shields.io/badge/PYTHON-3.9+-3776AB?style=for-the-badge&labelColor=555555&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/TASK-AUDIO%20CLASSIFICATION-E06666?style=for-the-badge&labelColor=555555" alt="Task"></a>
