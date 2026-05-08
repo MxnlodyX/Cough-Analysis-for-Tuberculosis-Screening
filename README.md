@@ -7,7 +7,7 @@
 
 <!-- ป้าย Badges (ใช้สไตล์ for-the-badge) -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/STATUS-R%26D-FFD700?style=for-the-badge&labelColor=555555" alt="Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/STATUS-ONGOING%20RESEARCH-007BFF?style=for-the-badge&labelColor=555555" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/COURSE-PRACTICAL%20DATA%20SCIENCE-5865F2?style=for-the-badge&labelColor=555555" alt="Course"></a>
   <a href="#"><img src="https://img.shields.io/badge/PYTHON-3.9+-3776AB?style=for-the-badge&labelColor=555555&logo=python&logoColor=white" alt="Python"></a>
   <a href="#"><img src="https://img.shields.io/badge/TASK-AUDIO%20CLASSIFICATION-E06666?style=for-the-badge&labelColor=555555" alt="Task"></a>
@@ -18,20 +18,6 @@
 **Research Topic:** *Cross-Dataset Generalization of Tuberculosis Screening from Cough Audio to Thai Smartphone-based Clinical Recordings*
 
 This project is divided into two main phases, combining coursework experiments with in-depth clinical research:
-
----
-
-## 👥 Authors
-
-This research is a collaborative effort between the **Faculty of Medicine Siriraj Hospital** and the **Faculty of Information and Communication Technology**, Mahidol University.
-
-| **Faculty of Medicine Siriraj Hospital** | **Faculty of ICT, Mahidol University** |
-| :--- | :--- |
-| • **Sukpawat Moungsombat** (Medical Student) | • **Wattanachai Boonchai** (Junior ICT Student) |
-| • **Pimnara Aimyen** (Medical Student) | • **Pipatpong Primna** (Junior ICT Student)|
-| • **Methee Chayakulkeeree** (Medical Advisor) | • **Sirawit Bunnam** (Junior ICT Student)|
-| • **Suree Sompradeekul** (Medical Advisor) | • **Pat Vatiwutipong** (Tech Advisor)|
-| • **Tararaj Dharakul** (Medical Advisor) | • **Thanapon Noraset** (Tech Advisor)|
 
 ---
 ## 🔬 Part 1: Multi-Features Evaluation (Practical Data Science)
