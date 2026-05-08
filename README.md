@@ -21,7 +21,19 @@ This project is divided into two main phases, combining coursework experiments w
 
 ---
 
-## 🛠️ Part 1: Practical Data Science (Feature Evaluation)
+## 👥 Authors
+
+This research is a collaborative effort between the **Faculty of Medicine Siriraj Hospital** and the **Faculty of Information and Communication Technology**, Mahidol University.
+
+| **Faculty of Medicine Siriraj Hospital** | **Faculty of ICT, Mahidol University** |
+| :--- | :--- |
+| • **Sukpawat Moungsombat** (Medical Student) | • **Wattanachai Boonchai** (Junior ICT Student) |
+| • **Pimnara Aimyen** (Medical Student) | • **Pipatpong Primna** (Junior ICT Student)|
+| • **Methee Chayakulkeeree** (Medical Advisor) | • **Sirawit Bunnam** (Junior ICT Student)|
+| • **Suree Sompradeekul** (Medical Advisor) | • **Pat Vatiwutipong** (Tech Advisor)|
+| • **Tararaj Dharakul** (Medical Advisor) | • **Thanapon Noraset** (Tech Advisor)|
+
+---
 
 The primary objective of this phase is to evaluate and identify the most effective acoustic features for predicting Pulmonary Tuberculosis (PTB). Through rigorous experimentation with various feature extraction methods, our findings indicate that **HeAR Embeddings** provide the best overall performance and most robust representation when fed into our classification models.
 
