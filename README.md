@@ -34,6 +34,7 @@ This research is a collaborative effort between the **Faculty of Medicine Sirira
 | • **Tararaj Dharakul** (Medical Advisor) | • **Thanapon Noraset** (Tech Advisor)|
 
 ---
+## 🔬 Part 1: Multi-Features Evaluation (Practical Data Science)
 
 The primary objective of this phase is to evaluate and identify the most effective acoustic features for predicting Pulmonary Tuberculosis (PTB). Through rigorous experimentation with various feature extraction methods, our findings indicate that **HeAR Embeddings** provide the best overall performance and most robust representation when fed into our classification models.
 
